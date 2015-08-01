@@ -1,0 +1,6 @@
+alias exc='exercism'
+alias exconfkey='exercism configure -k'
+alias exconfdir='exercism configure -d'
+alias exconfhost='exercism configure -u'
+alias exconfapi='exercism configure -a'
+alias helpexconf='exercism configure --help'
